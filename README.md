@@ -6,6 +6,12 @@ Get age based on date of birth
 $ npm install dd-get-age
 ```
 
+### Valid formats
+```shell
+'DD.MM.YYYY', 'DD-MM-YYYY', 'DD/MM/YYYY'
+'YYYY.MM.DD', 'YYYY-MM-DD', 'YYYY/MM/DD'
+```
+
 ### Use
 ```javascript
 // CommonJS
@@ -13,12 +19,6 @@ const getAge = require('dd-get-age');
 
 // ES6
 import getAge from 'dd-get-age';
-```
-
-```shell
-Valid formats
-'DD.MM.YYYY', 'DD-MM-YYYY', 'DD/MM/YYYY'
-'YYYY.MM.DD', 'YYYY-MM-DD', 'YYYY/MM/DD'
 ```
 
 ```javascript
