@@ -1,0 +1,23 @@
+{
+  "name": "dd-get-age",
+  "version": "1.0.0",
+  "description": "Get age based on date of birth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaeltonDias/dd-get-age.git"
+  },
+  "keywords": [
+    "Get",
+    "Age"
+  ],
+  "author": "Daelton Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaeltonDias/dd-get-age/issues"
+  },
+  "homepage": "https://github.com/DaeltonDias/dd-get-age#readme"
+}
