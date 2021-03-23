@@ -18,7 +18,7 @@ import getAge from 'dd-get-age';
 ```shell
 Valid formats
 'DD.MM.YYYY', 'DD-MM-YYYY', 'DD/MM/YYYY'
-'YYYY-MM-DD', 'YYYY-MM-DD', 'YYYY/MM/DD'
+'YYYY.MM.DD', 'YYYY-MM-DD', 'YYYY/MM/DD'
 ```
 
 ```javascript
